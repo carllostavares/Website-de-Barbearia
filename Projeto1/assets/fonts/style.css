@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xraxaa');
-  src:  url('fonts/icomoon.eot?xraxaa#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xraxaa') format('truetype'),
-    url('fonts/icomoon.woff?xraxaa') format('woff'),
-    url('fonts/icomoon.svg?xraxaa#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?lmt5ke');
+  src:  url('fonts/icomoon.eot?lmt5ke#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?lmt5ke') format('truetype'),
+    url('fonts/icomoon.woff?lmt5ke') format('woff'),
+    url('fonts/icomoon.svg?lmt5ke#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -51,4 +51,13 @@
 }
 .icon-trim:before {
   content: "\e908";
+}
+.icon-whatsapp:before {
+  content: "\e909";
+}
+.icon-woman-hair:before {
+  content: "\e90a";
+}
+.icon-youtube:before {
+  content: "\e90b";
 }
