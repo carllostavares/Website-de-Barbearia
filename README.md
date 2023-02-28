@@ -22,11 +22,3 @@ Utilitários
 ## 💻 Projeto
 
 Uma página institucional, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six).
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT.
